@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Application/Application.csproj": {}
+  },
+  "projects": {
+    "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Application/Application.csproj",
+        "packagesPath": "/Users/scoobydoo/.nuget/packages/",
+        "outputPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/scoobydoo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/Domain.csproj": {
+                "projectPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/Domain.csproj"
+              },
+              "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/Domain.csproj",
+        "packagesPath": "/Users/scoobydoo/.nuget/packages/",
+        "outputPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/scoobydoo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/scoobydoo/.nuget/packages/",
+        "outputPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/scoobydoo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/Domain.csproj": {
+                "projectPath": "/Users/scoobydoo/Projects/FullStack/ReactNetApp/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
