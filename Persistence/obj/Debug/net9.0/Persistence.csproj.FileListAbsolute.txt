@@ -8,7 +8,6 @@
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
-/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persiste.61C28332.Up2Date
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persistence.dll
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/refint/Persistence.dll
