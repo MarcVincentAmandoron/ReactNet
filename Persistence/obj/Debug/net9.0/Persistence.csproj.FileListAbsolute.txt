@@ -13,3 +13,4 @@
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/refint/Persistence.dll
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persistence.pdb
 /Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/ref/Persistence.dll
+/Users/scoobydoo/Projects/FullStack/ReactNetApp/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
